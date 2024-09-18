@@ -1,0 +1,33 @@
+body{
+    font-family: cursive;   
+    margin: 0;
+    background-color: #d5e1ef;
+    text-align: center;
+}
+
+.card{
+    height: 470px;
+    width: 302px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    padding: 10px;
+    padding-bottom: 45px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+
+}
+
+.card-image {
+    width: 100%;
+    border-radius: 10px;
+    /* object-fit: cover; */
+}
+
+h2{
+    color: #252d47;
+}
